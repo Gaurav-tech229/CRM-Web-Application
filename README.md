@@ -32,7 +32,7 @@ A Customer Relationship Management (CRM) system built with C++, Crow framework, 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/crm-web-application.git
+git clone https://github.com/username/CRM-Web-Application.git
 ```
 
 2. Install dependencies using vcpkg:
