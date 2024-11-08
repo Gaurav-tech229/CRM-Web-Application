@@ -1,9 +1,0 @@
-D:\C++ Projects\CRM\CRM WebApplication\x64\Debug\mysqlcppconn8-2-vs14.dll
-D:\C++ Projects\CRM\CRM WebApplication\x64\Debug\libprotobuf-lited.dll
-D:\C++ Projects\CRM\CRM WebApplication\x64\Debug\abseil_dll.dll
-D:\C++ Projects\CRM\CRM WebApplication\x64\Debug\zlibd1.dll
-D:\C++ Projects\CRM\CRM WebApplication\x64\Debug\lz4d.dll
-D:\C++ Projects\CRM\CRM WebApplication\x64\Debug\zstd.dll
-D:\C++ Projects\CRM\CRM WebApplication\x64\Debug\libssl-3-x64.dll
-D:\C++ Projects\CRM\CRM WebApplication\x64\Debug\libcrypto-3-x64.dll
-D:\C++ Projects\CRM\CRM WebApplication\CRM WebA.7c24ab8e\x64\Debug\CRM WebA.8C9164DF.Up2Date
